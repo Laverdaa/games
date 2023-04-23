@@ -1,0 +1,35 @@
+body {
+  background-color: #19376d;
+}
+
+.page {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  background-color: #a5d7e8;
+}
+
+.oldschool {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.gamesdisplay {
+  padding: 10%;
+}
+.games {
+  padding: 0 8%;
+}
+
+.card-body {
+  background-color: #a5d7e8;
+}
+
+.thanks {
+  width: 100%;
+
+  background-color: #0b2447;
+}
