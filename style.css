@@ -8,12 +8,14 @@ body {
   margin-right: auto;
   width: 60%;
   background-color: #a5d7e8;
+  box-shadow: 0 0 30px 0 #0b2447;
 }
 
 .oldschool {
   display: block;
   margin-left: auto;
   margin-right: auto;
+
   width: 100%;
 }
 
@@ -21,7 +23,7 @@ body {
   padding: 10%;
 }
 .games {
-  padding: 0 8%;
+  padding: 0 10%;
 }
 
 .card-body {
@@ -29,7 +31,28 @@ body {
 }
 
 .thanks {
-  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 
+  width: 100%;
   background-color: #0b2447;
+}
+
+.btn-group {
+  margin-bottom: 7%;
+}
+
+.lol {
+  width: 50%;
+}
+
+h2 {
+  font-family: "Courier New", Courier, monospace;
+  padding: 3%;
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 5%;
 }
